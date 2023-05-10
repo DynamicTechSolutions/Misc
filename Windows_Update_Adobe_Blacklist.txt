@@ -13,3 +13,4 @@
 ||onecs-live.azureedge.net^$important
 ||data.microsoft.com^$important
 ||intel.com^$important
+||watson.telemetry.microsoft.com^$important
