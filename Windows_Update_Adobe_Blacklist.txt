@@ -12,3 +12,4 @@
 ||us.configsvc1.live.com.akadns.net^$important
 ||onecs-live.azureedge.net^$important
 ||data.microsoft.com^$important
+||intel.com^$important
